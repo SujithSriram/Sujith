@@ -1,7 +1,7 @@
 👋 Hi, I'm Sujith Sriram
 
 🎓 Master's in Data Analytics @ George Mason University (2024–2026)
-🏛️  Graduate Teaching Assistant | Former Data Engineer @ CustomerInsights.AI
+🏛️  Graduate Teaching Assistant | Former Data Engineer @ CustomerInsights.AI 
 
 💡 Passionate about using data to drive business decisions and uncover
    actionable insights through AI and machine learning.
