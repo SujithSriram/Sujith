@@ -6,7 +6,7 @@
 💡 Passionate about using data to drive business decisions and uncover
    actionable insights through AI and machine learning.
 
-🛠️ Skills & Tools:
+🛠️ Skills & Tools:1
    - Data Analytics & Predictive Modeling
    - Machine Learning & Generative AI
    - R Programming | Python | SQL
